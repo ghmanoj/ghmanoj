@@ -17,4 +17,4 @@ A software engineer focused in Spring Framework based Apps development.
 </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mjghre&show_icons=true&locale=en" alt="mjghre" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mjgmre&show_icons=true&locale=en" alt="mjghre" /></p>
